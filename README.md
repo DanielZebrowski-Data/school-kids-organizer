@@ -48,3 +48,12 @@ Child: Represents individual enrollment data (ID, age, gender, group ID).
 Group: Tracks capacity limits, current occupancy, gender distribution, and age thresholds.
 
 Kindergarten: High-level controller orchestrating database fetches, constraint checks, and allocation execution.
+
+👨‍💻 Author
+Daniel Żebrowski
+
+Aspiring Data Analyst | SQL, Power BI & Python
+
+LinkedIn: [Daniel Żebrowski](https://www.linkedin.com/in/daniel-%C5%BCebrowski-7a0937211/)
+
+GitHub: @DanielZebrowski-Data
